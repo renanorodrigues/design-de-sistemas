@@ -1,6 +1,6 @@
-## Sistema Operacional Linux
+# Sistema Operacional Linux
 
-### Estrutura de diretórios
+## Estrutura de diretórios
 Diferente do Windows, cuja raiz do sistema é C:\, no Linux é somente / .Nisso, vários diretórios fazem parte do SO para diferentes finalidades. Alguns são resumidos logo abaixo:
 * **/home**  é onde ficam os arquivos do usuário logado. Seus arquivos pessoais, programas e relacionados. Antigamente, quem exercicia essa função era a pasta **/usr** , mas que agora é delegada a demais outros arquivos de diversos usuários.
 * **/opt** é um diretório opcional para o sistema armazenar qualquer tipo de arquivo, mas que normalmente é utilizado como local de armazenamento de programas.
