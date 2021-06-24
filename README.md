@@ -11,10 +11,13 @@ Deixarei os links de alguns sites, vídeos ou artigos que podem ser de grande va
 
 ### Iniciando no universo Linux
 O youtuber **Akita** tem um vídeo que mostra em maiores detalhes a distruibuição Ubuntu para quem deseja se aprofunda mais em questões técnicas do SO.
+
 **Link:** https://www.youtube.com/watch?v=epiyExCyb2s
 
 **Dionilux**, um canal que aborda bastante sobre o universo de distros Linux, apresentou um vídeo que ensina mais sobre comandos via terminal:
+
 **Link:** https://www.youtube.com/watch?v=JEhVB4VHsTI
 
 O **Viva o Linux** é fórum bastante popular da qual se concentra muitos usuários que estarão dispostos a te ajudar em qualquer dúvida que tiver sobre Linux:
+
 **Link:** https://www.vivaolinux.com.br/comunidade/Iniciantes-no-Linux/forum/
