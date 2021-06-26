@@ -21,3 +21,11 @@ O youtuber **Akita** tem um vídeo que mostra em maiores detalhes a distruibuiç
 O **Viva o Linux** é fórum bastante popular da qual se concentra muitos usuários que estarão dispostos a te ajudar em qualquer dúvida que tiver sobre Linux:
 
 **Link:** https://www.vivaolinux.com.br/comunidade/Iniciantes-no-Linux/forum/
+
+**NDG Linux Unhatched** é um curso Linux para "começar do zero". Ele abrange a instalação e configuração de um ambiente Linux e os conceitos básicos da CLI (Command Line Interface).
+
+**Link:** [https://www.netacad.com/pt-br/courses/os-it/ndg-linux-unhatched](https://www.netacad.com/pt-br/courses/os-it/ndg-linux-unhatched)
+
+**NDG Linux Essentials** é um curso Linux que cria rapidamente seu conhecimento de Linux e prepara você para o [LPI Linux Essentials Professional Development Certificate (PDC)](http://lpi.org/our-certifications/linux-essentials-overview/), a prova para os empregadores que você domina o sistema Linux! Muitos dos conceitos deste curso são abordados em um ritmo mais exigente no curso [NDG Linux I](https://www.netacad.com/pt-br/courses/os-it/ndg-linux-I). Nenhum pré-requisito é necessário.
+
+**Link**: [https://www.netacad.com/pt-br/courses/os-it/ndg-linux-essentials](https://www.netacad.com/pt-br/courses/os-it/ndg-linux-essentials)
